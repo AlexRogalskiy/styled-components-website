@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "styled-components",
-  "alias": "www.styled-components.com",
+  "alias": "www.styled-components2.com",
   "env": {
     "NODE_ENV": "production"
   },
